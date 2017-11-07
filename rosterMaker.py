@@ -1,3 +1,7 @@
+"""
+Author: Kurt Fan
+
+"""
 import openpyxl, pprint
 
 print('Opening wrokbook')
